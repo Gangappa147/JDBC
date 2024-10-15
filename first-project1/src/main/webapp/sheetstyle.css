@@ -1,0 +1,16 @@
+@charset "UTF-8";
+h1{
+  color:pink;
+  text-align:center;
+}
+a{
+	color:blue;
+	 text-align:center;
+}
+button{
+	color:green;
+		background-color:white;
+}
+body{
+	background-color:#f23467;
+}

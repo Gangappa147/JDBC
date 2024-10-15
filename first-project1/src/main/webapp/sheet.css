@@ -1,0 +1,44 @@
+@charset "UTF-8";
+*{
+	padding:0;
+	margin:0;
+	color:white
+}
+#navbar{
+	height:60px;
+	background-color:#0f1111;
+}
+button{
+	background-color:#f08804;
+}
+#logo{
+	color:#f08804;
+	font-size:25px;
+}
+a{
+	margin-right:150px;
+}
+select{
+	color:white;
+		background-color:#f08804;
+	
+}
+
+
+#button1{
+	width:100px;
+	margin-top: 20px;
+  margin-left: 1350px;
+   padding: 10px;
+
+}
+#button2{
+width:100px;
+     margin-top: 10px;
+  margin-left: 1350px;
+   padding: 10px;
+
+}
+body{
+	background-image:url(https://c8.alamy.com/comp/KX39B2/indian-group-college-friends-student-s-showing-thumbsup-success-KX39B2.jpg);
+}
